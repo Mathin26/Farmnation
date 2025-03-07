@@ -1,0 +1,379 @@
+Commodity,Arrivals,Unit of Arrivals,Variety,Minimum Prices,Maximum Prices,Modal Prices,Unit of Price,Date,District,Category
+Maize,0.16,Tonnes,Deshi Red,2400,2600,2600,Rs/Quintal,2025-02-01,AJattihalli,Cereals
+Banana,0.77,Tonnes,Besrai,5800,6000,6000,Rs/Quintal,2025-02-01,AJattihalli,Fruits
+Guava,0.14,Tonnes,Guava Alahabad,5000,5500,5500,Rs/Quintal,2025-02-01,AJattihalli,Fruits
+Papaya,0.22,Tonnes,Papaya,2600,2800,2800,Rs/Quintal,2025-02-01,AJattihalli,Fruits
+Tender Coconut,0.24,Tonnes,Tender Coconut,2400,2600,2600,Rs/Quintal,2025-02-01,AJattihalli,Fruits
+Groundnut,0.08,Tonnes,Big (With Shell),5200,5500,5500,Rs/Quintal,2025-02-01,AJattihalli,Fruits
+Beans,0.16,Tonnes,Beans (Whole),5800,6000,6000,Rs/Quintal,2025-02-01,AJattihalli,Pulses
+Green Peas,0.02,Tonnes,Green Peas,6000,6200,6200,Rs/Quintal,2025-02-01,AJattihalli,Pulses
+Coconut,0.43,Tonnes,Coconut,6800,7000,7000,Rs/Quintal,2025-02-01,AJattihalli,Pulses
+Garlic,0.11,Tonnes,Average,23500,24000,24000,Rs/Quintal,2025-02-01,AJattihalli,Pulses
+Amaranthus,0.14,Tonnes,Amaranthus,3800,4000,4000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Ashgourd,0.06,Tonnes,Gouard,1800,2000,2000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Banana - Green,0.24,Tonnes,Banana - Green,2800,3000,3000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Beetroot,0.16,Tonnes,Beetroot,3000,3200,3200,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Bhindi(Ladies Finger),1.09,Tonnes,Bhindi,2800,3000,3000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Bitter gourd,0.42,Tonnes,Bitter Gourd,3200,3500,3500,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Bottle gourd,1.36,Tonnes,Bottle Gourd,1000,1200,1200,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Brinjal,1.22,Tonnes,Round,2400,2600,2600,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Cabbage,0.18,Tonnes,Cabbage,2600,2800,2800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Capsicum,0.01,Tonnes,Capsicum,6000,6500,6500,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Carrot,0.14,Tonnes,Pusakesar,4800,5000,5000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Cauliflower,0.06,Tonnes,Ranchi,2800,3000,3000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Chow Chow,0.08,Tonnes,Chow Chow,2600,2800,2800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Cluster beans,0.22,Tonnes,Cluster Beans,4200,4400,4400,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Coriander(Leaves),0.13,Tonnes,I Sort,2800,3000,3000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Cowpea(Veg),0.16,Tonnes,Cowpea (Veg),4800,5000,5000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Cucumbar(Kheera),0.08,Tonnes,Cucumbar,3600,3800,3800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Drumstick,0.14,Tonnes,Drumstick,15500,16000,16000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Elephant Yam (Suran),0.02,Tonnes,Elephant Yam (Suran),5800,6000,6000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Ginger(Green),0.12,Tonnes,Green Ginger,5600,5800,5800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Green Avare (W),0.97,Tonnes,Avare (W),3600,3800,3800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Green Chilli,0.36,Tonnes,Green Chilly,3400,3600,3600,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Indian Beans (Seam),0.57,Tonnes,Indian Beans (Seam),4800,5000,5000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Knool Khol,0.08,Tonnes,Knool Khol,3600,3800,3800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Lemon,0.15,Tonnes,Lemon,7500,8000,8000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Mint(Pudina),0.12,Tonnes,Mint(Pudina),3800,4000,4000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Onion,0.68,Tonnes,Bellary,4200,4400,4400,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Onion Green,0.46,Tonnes,Onion Green,5600,5800,5800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Potato,0.57,Tonnes,(Red Nanital),4200,4400,4400,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Pumpkin,0.76,Tonnes,Pumpkin,1300,1500,1500,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Raddish,0.48,Tonnes,Raddish,800,1000,1000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Ridgeguard(Tori),0.62,Tonnes,Ridgeguard(Tori),3600,3800,3800,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Snakeguard,0.32,Tonnes,Snakeguard,3200,3500,3500,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Sweet Potato,0.12,Tonnes,Hosur Red,2800,3000,3000,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Thondekai,0.01,Tonnes,Thondekai,5000,5400,5400,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Tomato,3.18,Tonnes,Deshi,2200,2400,2400,Rs/Quintal,2025-02-01,AJattihalli,Vegetables
+Banana,0.37,Tonnes,Besrai,5000,6000,6000,Rs/Quintal,2025-02-01,Alangudi,Fruits
+Papaya,0.27,Tonnes,Papaya,2500,3000,3000,Rs/Quintal,2025-02-01,Alangudi,Fruits
+Coconut,0.54,Tonnes,Coconut,4500,5000,5000,Rs/Quintal,2025-02-01,Alangudi,Fruits
+Amaranthus,0.16,Tonnes,Amaranthus,1500,2000,2000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Ashgourd,0.12,Tonnes,Gouard,1500,2000,2000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Banana - Green,0.46,Tonnes,Banana - Green,2500,3000,3000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Bhindi(Ladies Finger),0.16,Tonnes,Bhindi,5000,6000,6000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Bitter gourd,0.14,Tonnes,Bitter Gourd,4500,5000,5000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Bottle gourd,0.14,Tonnes,Bottle Gourd,2000,2500,2500,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Brinjal,0.14,Tonnes,Round,8000,9000,9000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Cluster beans,0.12,Tonnes,Cluster Beans,5000,6000,6000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Coriander(Leaves),0.01,Tonnes,I Sort,3500,4000,4000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Green Avare (W),0.15,Tonnes,Avare (W),4500,5000,5000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Green Chilli,0.13,Tonnes,Green Chilly,4500,5000,5000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Lemon,0.12,Tonnes,Lemon,4500,5000,5000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Mango (Raw-Ripe),0.06,Tonnes,Mango - Raw-Ripe,11000,12000,12000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Mint(Pudina),0.01,Tonnes,Mint(Pudina),3500,4000,4000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Onion Green,0.12,Tonnes,Onion Green,5000,6000,6000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Pumpkin,0.14,Tonnes,Pumpkin,1500,2000,2000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Raddish,0.16,Tonnes,Raddish,2500,3000,3000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Ridgeguard(Tori),0.11,Tonnes,Ridgeguard(Tori),5000,6000,6000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Snakeguard,0.14,Tonnes,Snakeguard,3500,4000,4000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Tomato,0.56,Tonnes,Deshi,2500,3000,3000,Rs/Quintal,2025-02-01,Alangudi,Vegetables
+Coconut,0.02,Tonnes,Coconut,5000,6000,6000,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Ashgourd,0.01,Tonnes,Gouard,1200,1500,1500,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Banana - Green,0.15,Tonnes,Banana - Green,1600,2000,2000,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Bottle gourd,0.01,Tonnes,Bottle Gourd,1200,1500,1500,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Brinjal,0.01,Tonnes,Round,2500,3000,3000,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Green Chilli,0.01,Tonnes,Green Chilly,3800,4500,4500,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Onion,0.02,Tonnes,Bellary,3300,4000,4000,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Onion Green,0.01,Tonnes,Onion Green,5500,6500,6500,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Tomato,0.02,Tonnes,Deshi,2000,2500,2500,Rs/Quintal,2025-02-01,Ambasamudram,Vegetables
+Coconut,0.02,Tonnes,Coconut,6000,6000,6000,Rs/Quintal,2025-02-01,Ambattur,Vegetables
+Brinjal,0.01,Tonnes,Round,4000,4000,4000,Rs/Quintal,2025-02-01,Ambattur,Vegetables
+Onion,0.02,Tonnes,Bellary,4000,4000,4000,Rs/Quintal,2025-02-01,Ambattur,Vegetables
+Potato,0.01,Tonnes,(Red Nanital),4000,4000,4000,Rs/Quintal,2025-02-01,Ambattur,Vegetables
+Tomato,0.02,Tonnes,Deshi,2500,2500,2500,Rs/Quintal,2025-02-01,Ambattur,Vegetables
+Maize,0.14,Tonnes,Deshi Red,2000,2500,2500,Rs/Quintal,2025-02-01,Ammapet,Cereals
+Marigold(Calcutta),0.01,Nos,Marigold(Calcutta),16000,18000,18000,Rs/No,2025-02-01,Ammapet,Flowers
+Rose(Local),0.01,Nos,Rose (Local),20000,22000,22000,Rs/No,2025-02-01,Ammapet,Flowers
+Amla(Nelli Kai),0.13,Tonnes,Amla,6000,7000,7000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Apple,0.02,Tonnes,American,18000,20000,20000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Banana,2.1,Tonnes,Besrai,4500,10000,10000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Chikoos(Sapota),0.17,Tonnes,Sapota,4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Custard Apple (Sharifa),0.02,Tonnes,Custard Apple(Sharifa),9000,10000,10000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Grapes,0.02,Tonnes,Annabesahai,7000,8000,8000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Guava,0.14,Tonnes,Guava Alahabad,5000,6000,6000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Lime,0.01,Tonnes,Lime,4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Mousambi(Sweet Lime),0.13,Tonnes,Mousambi,3000,3500,3500,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Orange,0.03,Tonnes,Darjeeling,6000,8000,8000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Papaya,0.41,Tonnes,Papaya,2500,3000,3000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Pomegranate,0.02,Tonnes,Pomogranate,18000,22000,22000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Tender Coconut,1.38,Tonnes,Tender Coconut,2500,3000,3000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Water Melon,0.09,Tonnes,Water Melon,1800,2000,2000,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Groundnut,0.13,Tonnes,Big (With Shell),5000,5500,5500,Rs/Quintal,2025-02-01,Ammapet,Fruits
+Arhar (Tur/Red Gram)(Whole),0.09,Tonnes,Arhar (Whole),4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Pulses
+Beans,0.19,Tonnes,Beans (Whole),6500,7000,7000,Rs/Quintal,2025-02-01,Ammapet,Pulses
+Green Peas,0.07,Tonnes,Green Peas,6000,7000,7000,Rs/Quintal,2025-02-01,Ammapet,Pulses
+Coconut,1.59,Tonnes,Coconut,6500,7000,7000,Rs/Quintal,2025-02-01,Ammapet,Pulses
+Amaranthus,0.78,Tonnes,Amaranthus,2000,2500,2500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Ashgourd,0.36,Tonnes,Gouard,1800,2000,2000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Banana - Green,0.62,Tonnes,Banana - Green,2000,2400,2400,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Beetroot,0.26,Tonnes,Beetroot,4000,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Bhindi(Ladies Finger),0.33,Tonnes,Bhindi,3500,3800,3800,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Bitter gourd,0.32,Tonnes,Bitter Gourd,3200,3500,3500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Bottle gourd,0.5,Tonnes,Bottle Gourd,1800,2000,2000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Brinjal,0.55,Tonnes,Round,2600,3000,3000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Cabbage,0.25,Tonnes,Cabbage,2500,3000,3000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Capsicum,0.04,Tonnes,Capsicum,6500,7000,7000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Carrot,0.24,Tonnes,Pusakesar,5500,6000,6000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Cauliflower,0.11,Tonnes,Ranchi,2000,2500,2500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Chow Chow,0.07,Tonnes,Chow Chow,2500,3000,3000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Cluster beans,0.22,Tonnes,Cluster Beans,4000,4500,4500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Coriander(Leaves),0.45,Tonnes,I Sort,1800,2000,2000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Cucumbar(Kheera),0.16,Tonnes,Cucumbar,3500,4000,4000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Drumstick,0.08,Tonnes,Drumstick,13000,15000,15000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Elephant Yam (Suran),0.39,Tonnes,Elephant Yam (Suran),4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Ginger(Green),0.24,Tonnes,Green Ginger,5000,5500,5500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Green Avare (W),0.33,Tonnes,Avare (W),4000,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Green Chilli,0.38,Tonnes,Green Chilly,3800,4000,4000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Indian Beans (Seam),0.17,Tonnes,Indian Beans (Seam),4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Knool Khol,0.08,Tonnes,Knool Khol,3500,4000,4000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Lemon,0.18,Tonnes,Lemon,4500,6000,6000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Mango (Raw-Ripe),0.03,Tonnes,Mango - Raw-Ripe,9000,10000,10000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Mashrooms,0.14,Tonnes,Mashrooms,3500,4000,4000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Mint(Pudina),0.43,Tonnes,Mint(Pudina),2500,3000,3000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Onion,0.43,Tonnes,Bellary,4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Onion Green,0.79,Tonnes,Onion Green,5000,5500,5500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Potato,0.41,Tonnes,(Red Nanital),4000,6000,6000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Pumpkin,0.34,Tonnes,Pumpkin,1800,2000,2000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Raddish,0.46,Tonnes,Raddish,1500,1800,1800,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Ridgeguard(Tori),0.27,Tonnes,Ridgeguard(Tori),4400,4600,4600,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Snakeguard,0.48,Tonnes,Snakeguard,2600,2800,2800,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Sweet Potato,0.17,Tonnes,Hosur Red,3500,4000,4000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Tapioca,0.39,Tonnes,Tapioca,2200,2500,2500,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Thondekai,0.14,Tonnes,Thondekai,4500,5000,5000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Tomato,2.19,Tonnes,Deshi,1600,2000,2000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Yam (Ratalu),0.25,Tonnes,Yam (Ratalu),6000,7000,7000,Rs/Quintal,2025-02-01,Ammapet,Vegetables
+Maize,0.12,Tonnes,Deshi Red,1600,2400,2400,Rs/Quintal,2025-02-01,Anaiyur,Cereals
+Betal Leaves,0.02,Tonnes,Mysore,16000,20000,20000,Rs/Quintal,2025-02-01,Anaiyur,Cereals
+Amla(Nelli Kai),0.16,Tonnes,Amla,5000,6000,6000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Apple,0.05,Tonnes,American,18000,20000,20000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Banana,0.74,Tonnes,Besrai,3000,4000,4000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Chikoos(Sapota),0.11,Tonnes,Sapota,5000,6000,6000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Grapes,0.05,Tonnes,Annabesahai,10000,11000,11000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Guava,0.12,Tonnes,Guava Alahabad,7000,8000,8000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Lime,0.13,Tonnes,Lime,10000,12000,12000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Orange,0.06,Tonnes,Darjeeling,9000,10000,10000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Papaya,0.32,Tonnes,Papaya,3600,4000,4000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Pomegranate,0.06,Tonnes,Pomogranate,20000,23000,23000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Groundnut,0.11,Tonnes,Big (With Shell),6000,7000,7000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Soyabean,0.12,Tonnes,Local,7000,8000,8000,Rs/Quintal,2025-02-01,Anaiyur,Fruits
+Beans,0.17,Tonnes,Beans (Whole),8000,8500,8500,Rs/Quintal,2025-02-01,Anaiyur,Pulses
+Green Peas,0.13,Tonnes,Green Peas,6000,6500,6500,Rs/Quintal,2025-02-01,Anaiyur,Pulses
+Coconut,0.71,Tonnes,Coconut,6500,7000,7000,Rs/Quintal,2025-02-01,Anaiyur,Pulses
+Garlic,0.15,Tonnes,Average,30000,32000,32000,Rs/Quintal,2025-02-01,Anaiyur,Pulses
+Amaranthus,0.13,Tonnes,Amaranthus,3000,4000,4000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Ashgourd,0.2,Tonnes,Gouard,1800,2000,2000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Banana - Green,0.56,Tonnes,Banana - Green,1500,2000,2000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Beetroot,0.14,Tonnes,Beetroot,3000,3400,3400,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Bhindi(Ladies Finger),0.38,Tonnes,Bhindi,4500,5000,5000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Bitter gourd,0.12,Tonnes,Bitter Gourd,4000,4500,4500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Bottle gourd,0.3,Tonnes,Bottle Gourd,3000,3200,3200,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Brinjal,0.46,Tonnes,Round,4000,4500,4500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Cabbage,0.43,Tonnes,Cabbage,2000,2400,2400,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Capsicum,0.07,Tonnes,Capsicum,5000,5500,5500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Carrot,0.16,Tonnes,Pusakesar,5000,6000,6000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Cauliflower,0.3,Tonnes,Ranchi,2500,2800,2800,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Chow Chow,0.36,Tonnes,Chow Chow,1400,1600,1600,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Cluster beans,0.12,Tonnes,Cluster Beans,3500,4000,4000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Colacasia,0.15,Tonnes,Colacasia,6000,6500,6500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Coriander(Leaves),0.17,Tonnes,I Sort,3000,3600,3600,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Cucumbar(Kheera),0.1,Tonnes,Cucumbar,8000,8500,8500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Drumstick,0.06,Tonnes,Drumstick,13000,15000,15000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Elephant Yam (Suran),0.16,Tonnes,Elephant Yam (Suran),6000,6500,6500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Ginger(Green),0.14,Tonnes,Green Ginger,5000,6000,6000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Green Avare (W),0.11,Tonnes,Avare (W),4000,4500,4500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Green Chilli,0.17,Tonnes,Green Chilly,3000,3600,3600,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Indian Beans (Seam),0.15,Tonnes,Indian Beans (Seam),5000,6000,6000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Knool Khol,0.06,Tonnes,Knool Khol,3000,3200,3200,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Lemon,0.18,Tonnes,Lemon,4000,5000,5000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Mango (Raw-Ripe),0.14,Tonnes,Mango - Raw-Ripe,8000,15000,15000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Mashrooms,0.02,Tonnes,Mashrooms,4500,5000,5000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Mint(Pudina),0.16,Tonnes,Mint(Pudina),2500,3000,3000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Onion,0.75,Tonnes,Bellary,4500,5000,5000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Onion Green,0.72,Tonnes,Onion Green,7000,8000,8000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Potato,0.43,Tonnes,(Red Nanital),4000,4500,4500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Pumpkin,0.23,Tonnes,Pumpkin,1800,2000,2000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Raddish,0.24,Tonnes,Raddish,1600,1800,1800,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Ridgeguard(Tori),0.1,Tonnes,Ridgeguard(Tori),5000,5500,5500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Snakeguard,0.24,Tonnes,Snakeguard,4500,4800,4800,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Sweet Potato,0.15,Tonnes,Hosur Red,5000,5400,5400,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Tapioca,0.14,Tonnes,Tapioca,3000,4000,4000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Thondekai,0.12,Tonnes,Thondekai,4500,4800,4800,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Tomato,0.83,Tonnes,Deshi,2200,2500,2500,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Yam (Ratalu),0.16,Tonnes,Yam (Ratalu),6000,7000,7000,Rs/Quintal,2025-02-01,Anaiyur,Vegetables
+Banana,0.35,Tonnes,Besrai,4000,5000,5000,Rs/Quintal,2025-02-01,Andipatti,Fruits
+Lime,0.04,Tonnes,Lime,14000,15000,15000,Rs/Quintal,2025-02-01,Andipatti,Fruits
+Papaya,0.05,Tonnes,Papaya,2500,3000,3000,Rs/Quintal,2025-02-01,Andipatti,Fruits
+Soyabean,0.04,Tonnes,Local,8500,9000,9000,Rs/Quintal,2025-02-01,Andipatti,Fruits
+Beans,0.12,Tonnes,Beans (Whole),7500,8000,8000,Rs/Quintal,2025-02-01,Andipatti,Pulses
+Green Peas,0.06,Tonnes,Green Peas,4500,5000,5000,Rs/Quintal,2025-02-01,Andipatti,Pulses
+Coconut,0.36,Tonnes,Coconut,5000,6000,6000,Rs/Quintal,2025-02-01,Andipatti,Pulses
+Garlic,0.02,Tonnes,Average,28000,30000,30000,Rs/Quintal,2025-02-01,Andipatti,Pulses
+Amaranthus,0.14,Tonnes,Amaranthus,2000,2500,2500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Banana - Green,0.14,Tonnes,Banana - Green,2000,2500,2500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Beetroot,0.2,Tonnes,Beetroot,1800,2000,2000,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Bhindi(Ladies Finger),0.2,Tonnes,Bhindi,3800,4000,4000,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Bitter gourd,0.1,Tonnes,Bitter Gourd,2800,3000,3000,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Bottle gourd,0.22,Tonnes,Bottle Gourd,1200,1400,1400,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Brinjal,0.45,Tonnes,Round,2400,2500,2500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Cabbage,0.36,Tonnes,Cabbage,1800,2000,2000,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Carrot,0.15,Tonnes,Pusakesar,5000,5500,5500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Cauliflower,0.25,Tonnes,Ranchi,3000,3500,3500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Chow Chow,0.25,Tonnes,Chow Chow,1400,1500,1500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Cluster beans,0.2,Tonnes,Cluster Beans,3200,3500,3500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Colacasia,0.01,Tonnes,Colacasia,5000,5500,5500,Rs/Quintal,2025-02-01,Andipatti,Vegetables
+Water Melon,0.1,Tonnes,Water Melon,2000,2000,2000,Rs/Quintal,2025-02-09,Vaniyampadi,Fruits
+Groundnut,0.73,Tonnes,Big (With Shell),6000,6000,6000,Rs/Quintal,2025-02-09,Vaniyampadi,Fruits
+Beans,0.55,Tonnes,Beans (Whole),5000,5000,5000,Rs/Quintal,2025-02-09,Vaniyampadi,Pulses
+Green Peas,0.45,Tonnes,Green Peas,5000,5000,5000,Rs/Quintal,2025-02-09,Vaniyampadi,Pulses
+Coconut,2.7,Tonnes,Coconut,4000,4000,4000,Rs/Quintal,2025-02-09,Vaniyampadi,Pulses
+Garlic,0.41,Tonnes,Average,15000,15000,15000,Rs/Quintal,2025-02-09,Vaniyampadi,Pulses
+Amaranthus,0.65,Tonnes,Amaranthus,2500,2500,2500,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Banana - Green,0.72,Tonnes,Banana - Green,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Beetroot,0.53,Tonnes,Beetroot,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Bhindi(Ladies Finger),1.56,Tonnes,Bhindi,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Bitter gourd,0.75,Tonnes,Bitter Gourd,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Bottle gourd,1.73,Tonnes,Bottle Gourd,1000,1000,1000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Brinjal,2.25,Tonnes,Round,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Cabbage,0.18,Tonnes,Cabbage,2000,2000,2000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Carrot,0.39,Tonnes,Pusakesar,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Cauliflower,0.15,Tonnes,Ranchi,3500,3500,3500,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Cluster beans,0.51,Tonnes,Cluster Beans,4000,4000,4000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Colacasia,0.27,Tonnes,Colacasia,7000,7000,7000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Coriander(Leaves),2.26,Tonnes,I Sort,4000,4000,4000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Cowpea(Veg),0.31,Tonnes,Cowpea (Veg),5000,5000,5000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Drumstick,0.38,Tonnes,Drumstick,10000,10000,10000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Elephant Yam (Suran),0.43,Tonnes,Elephant Yam (Suran),6000,6000,6000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Ginger(Green),0.3,Tonnes,Green Ginger,5000,5000,5000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Green Avare (W),0.56,Tonnes,Avare (W),3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Green Chilli,0.91,Tonnes,Green Chilly,4000,4000,4000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Indian Beans (Seam),0.65,Tonnes,Indian Beans (Seam),5000,5000,5000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Knool Khol,0.32,Tonnes,Knool Khol,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Lemon,0.8,Tonnes,Lemon,6000,6000,6000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Mango (Raw-Ripe),0.91,Tonnes,Mango - Raw-Ripe,12000,12000,12000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Mint(Pudina),0.7,Tonnes,Mint(Pudina),2500,2500,2500,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Onion,0.7,Tonnes,Bellary,4000,4000,4000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Onion Green,0.67,Tonnes,Onion Green,6000,6000,6000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Potato,0.7,Tonnes,(Red Nanital),3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Pumpkin,0.2,Tonnes,Pumpkin,2000,2000,2000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Raddish,0.25,Tonnes,Raddish,1500,1500,1500,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Ridgeguard(Tori),0.68,Tonnes,Ridgeguard(Tori),4000,4000,4000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Snakeguard,0.28,Tonnes,Snakeguard,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Sweet Potato,0.53,Tonnes,Hosur Red,3000,3000,3000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Tapioca,0.3,Tonnes,Tapioca,2500,2500,2500,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Tomato,11.4,Tonnes,Deshi,1000,1000,1000,Rs/Quintal,2025-02-09,Vaniyampadi,Vegetables
+Banana,0.04,Tonnes,Besrai,4000,5000,5000,Rs/Quintal,2025-02-09,Vedasanthur,Fruits
+Coconut,0.04,Tonnes,Coconut,5600,6400,6400,Rs/Quintal,2025-02-09,Vedasanthur,Fruits
+Amaranthus,0.03,Tonnes,Amaranthus,2000,2500,2500,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Banana - Green,0.02,Tonnes,Banana - Green,2000,2400,2400,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Beetroot,0.01,Tonnes,Beetroot,3000,5000,5000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Bhindi(Ladies Finger),0.02,Tonnes,Bhindi,2000,2500,2500,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Bitter gourd,0.01,Tonnes,Bitter Gourd,2000,2400,2400,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Bottle gourd,0.02,Tonnes,Bottle Gourd,1000,1500,1500,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Brinjal,0.02,Tonnes,Round,2500,6000,6000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Cabbage,0.02,Tonnes,Cabbage,3000,4000,4000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Chow Chow,0.02,Tonnes,Chow Chow,2000,2400,2400,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Green Chilli,0.01,Tonnes,Green Chilly,2500,3000,3000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Onion,0.04,Tonnes,Bellary,3600,4500,4500,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Onion Green,0.02,Tonnes,Onion Green,4000,4800,4800,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Potato,0.02,Tonnes,(Red Nanital),3000,4000,4000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Pumpkin,0.02,Tonnes,Pumpkin,1500,2000,2000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Raddish,0.02,Tonnes,Raddish,1000,1500,1500,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Ridgeguard(Tori),0.02,Tonnes,Ridgeguard(Tori),2000,2500,2500,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Snakeguard,0.02,Tonnes,Snakeguard,1000,2000,2000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Tomato,0.11,Tonnes,Deshi,800,1000,1000,Rs/Quintal,2025-02-09,Vedasanthur,Vegetables
+Banana,2.55,Tonnes,Besrai,5300,6000,6000,Rs/Quintal,2025-02-09,Velayuthampalayam,Fruits
+Beans,0.05,Tonnes,Beans (Whole),5300,6000,6000,Rs/Quintal,2025-02-09,Velayuthampalayam,Pulses
+Coconut,0.52,Tonnes,Coconut,5200,6500,6500,Rs/Quintal,2025-02-09,Velayuthampalayam,Pulses
+Amaranthus,0.07,Tonnes,Amaranthus,2400,3000,3000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Ashgourd,0.03,Tonnes,Gouard,1600,2000,2000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Banana - Green,0.08,Tonnes,Banana - Green,3200,4000,4000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Beetroot,0.03,Tonnes,Beetroot,5300,6000,6000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Bhindi(Ladies Finger),0.07,Tonnes,Bhindi,2800,3500,3500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Bitter gourd,0.05,Tonnes,Bitter Gourd,2400,3000,3000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Bottle gourd,0.06,Tonnes,Bottle Gourd,1200,1500,1500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Brinjal,0.07,Tonnes,Round,1600,2000,2000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Cabbage,0.14,Tonnes,Cabbage,2700,3000,3000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Carrot,0.05,Tonnes,Pusakesar,5200,6500,6500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Chow Chow,0.03,Tonnes,Chow Chow,2000,2500,2500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Cluster beans,0.05,Tonnes,Cluster Beans,2800,3500,3500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Coriander(Leaves),0.05,Tonnes,I Sort,3200,4000,4000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Drumstick,0.02,Tonnes,Drumstick,7200,10000,10000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Ginger(Green),0.05,Tonnes,Green Ginger,5300,6000,6000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Green Avare (W),0.06,Tonnes,Avare (W),3200,4000,4000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Green Chilli,0.05,Tonnes,Green Chilly,2800,3500,3500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Lemon,0.14,Tonnes,Lemon,5300,6000,6000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Mint(Pudina),0.05,Tonnes,Mint(Pudina),4000,5000,5000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Onion,0.16,Tonnes,Bellary,3600,4500,4500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Onion Green,0.24,Tonnes,Onion Green,3600,4500,4500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Potato,0.09,Tonnes,(Red Nanital),3600,4500,4500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Pumpkin,0.03,Tonnes,Pumpkin,2000,2500,2500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Raddish,0.04,Tonnes,Raddish,2000,2500,2500,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Ridgeguard(Tori),0.06,Tonnes,Ridgeguard(Tori),2400,3000,3000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Snakeguard,0.07,Tonnes,Snakeguard,1600,2000,2000,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Tomato,0.25,Tonnes,Deshi,1000,1400,1400,Rs/Quintal,2025-02-09,Velayuthampalayam,Vegetables
+Betal Leaves,0.05,Tonnes,Mysore,15000,15000,15000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Marigold(Calcutta),0.03,Nos,Marigold(Calcutta),10000,12000,12000,Rs/No,2025-02-09,Vellore,Flowers
+Rose(Local),0.01,Nos,Rose (Local),11000,12000,12000,Rs/No,2025-02-09,Vellore,Flowers
+Tamarind Fruit,0.17,Tonnes,Tamarind Fruit,12000,13000,13000,Rs/Quintal,2025-02-09,Vellore,Flowers
+Amla(Nelli Kai),0.12,Tonnes,Amla,8000,9000,9000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Apple,0.03,Tonnes,American,19000,19000,19000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Banana,3.7,Tonnes,Besrai,4000,6000,6000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Chikoos(Sapota),0.48,Tonnes,Sapota,2500,3000,3000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Grapes,0.02,Tonnes,Annabesahai,7000,7000,7000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Guava,1.4,Tonnes,Guava Alahabad,3500,4000,4000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Karbuja(Musk Melon),0.04,Tonnes,Karbhuja,3500,4000,4000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Mousambi(Sweet Lime),0.03,Tonnes,Mousambi,8000,8000,8000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Orange,0.02,Tonnes,Darjeeling,7000,7000,7000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Papaya,0.86,Tonnes,Papaya,3500,4000,4000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Pineapple,0.03,Tonnes,Pine Apple,4000,4000,4000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Pomegranate,0.03,Tonnes,Pomogranate,19000,19000,19000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Tender Coconut,2.1,Tonnes,Tender Coconut,2500,3000,3000,Rs/Quintal,2025-02-09,Vellore,Fruits
+Groundnut,0.2,Tonnes,Big (With Shell),6000,6500,6500,Rs/Quintal,2025-02-09,Vellore,Fruits
+Arhar (Tur/Red Gram)(Whole),0.03,Tonnes,Arhar (Whole),4000,4000,4000,Rs/Quintal,2025-02-09,Vellore,Pulses
+Beans,0.46,Tonnes,Beans (Whole),3000,3500,3500,Rs/Quintal,2025-02-09,Vellore,Pulses
+Green Peas,0.29,Tonnes,Green Peas,5000,5500,5500,Rs/Quintal,2025-02-09,Vellore,Pulses
+Coconut,3.5,Tonnes,Coconut,2500,3000,3000,Rs/Quintal,2025-02-09,Vellore,Pulses
+Garlic,0.3,Tonnes,Average,11000,11500,11500,Rs/Quintal,2025-02-09,Vellore,Pulses
+Amaranthus,0.5,Tonnes,Amaranthus,2500,2500,2500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Ashgourd,0.2,Tonnes,Gouard,1500,1500,1500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Banana - Green,1,Tonnes,Banana - Green,2800,3000,3000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Beetroot,0.31,Tonnes,Beetroot,1800,2000,2000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Bhindi(Ladies Finger),0.9,Tonnes,Bhindi,3500,4000,4000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Bitter gourd,0.15,Tonnes,Bitter Gourd,3000,3500,3500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Bottle gourd,0.42,Tonnes,Bottle Gourd,1500,2000,2000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Brinjal,1.98,Tonnes,Round,2000,2500,2500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Cabbage,0.22,Tonnes,Cabbage,1400,1400,1400,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Capsicum,0.15,Tonnes,Capsicum,3000,3500,3500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Carrot,0.34,Tonnes,Pusakesar,2000,2400,2400,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Cauliflower,0.15,Tonnes,Ranchi,1500,2000,2000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Chow Chow,0.15,Tonnes,Chow Chow,1500,1500,1500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Cluster beans,0.08,Tonnes,Cluster Beans,4000,4000,4000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Colacasia,0.2,Tonnes,Colacasia,4000,4600,4600,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Coriander(Leaves),0.38,Tonnes,I Sort,5000,5000,5000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Cowpea(Veg),0.14,Tonnes,Cowpea (Veg),3600,3600,3600,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Cucumbar(Kheera),0.14,Tonnes,Cucumbar,2500,3000,3000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Drumstick,0.14,Tonnes,Drumstick,10000,11000,11000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Elephant Yam (Suran),0.18,Tonnes,Elephant Yam (Suran),5000,6000,6000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Ginger(Green),0.32,Tonnes,Green Ginger,4600,4600,4600,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Green Avare (W),0.43,Tonnes,Avare (W),3000,3400,3400,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Green Chilli,0.36,Tonnes,Green Chilly,3500,4000,4000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Indian Beans (Seam),0.34,Tonnes,Indian Beans (Seam),4000,4400,4400,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Knool Khol,0.15,Tonnes,Knool Khol,1500,1500,1500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Lemon,0.2,Tonnes,Lemon,5000,6000,6000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Mango (Raw-Ripe),0.14,Tonnes,Mango - Raw-Ripe,10000,11000,11000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Mashrooms,0.75,Tonnes,Mashrooms,2000,2500,2500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Mint(Pudina),0.4,Tonnes,Mint(Pudina),5000,5000,5000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Onion,1.3,Tonnes,Bellary,3600,4000,4000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Onion Green,0.26,Tonnes,Onion Green,5000,5500,5500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Potato,0.65,Tonnes,(Red Nanital),2500,2500,2500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Pumpkin,0.18,Tonnes,Pumpkin,1500,1500,1500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Raddish,0.4,Tonnes,Raddish,1200,1500,1500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Ridgeguard(Tori),0.18,Tonnes,Ridgeguard(Tori),4000,4500,4500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Snakeguard,0.15,Tonnes,Snakeguard,2000,2000,2000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Sweet Potato,0.24,Tonnes,Hosur Red,2500,3000,3000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Tapioca,0.18,Tonnes,Tapioca,3000,3000,3000,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Thondekai,0.07,Tonnes,Thondekai,3500,3500,3500,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Tomato,4,Tonnes,Deshi,1600,1800,1800,Rs/Quintal,2025-02-09,Vellore,Vegetables
+Banana,0.42,Tonnes,Besrai,7000,8000,8000,Rs/Quintal,2025-02-09,Viralimalai,Fruits
+Guava,0.06,Tonnes,Guava Alahabad,7000,8000
