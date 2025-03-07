@@ -1,11 +1,12 @@
-import { View, Text, Image, TouchableOpacity } from "react-native";
+import { View, Text, Image, TouchableOpacity, ImageSourcePropType } from "react-native";
 import React from "react";
 import { Star } from "lucide-react-native";
 import { router } from "expo-router";
+import images from "@/constants/images";
 
 interface Product {
   id: string;
-  image: string;
+  image: ImageSourcePropType;
   title: string;
   description: string;
   price: string;
@@ -19,7 +20,7 @@ const ProductCard = ({ product }: { product: Product }) => {
   return (
     <View className="flex-1 bg-white p-3 rounded-xl shadow-sm border border-secondary-200 m-1">
       <Image
-        source={{ uri: product.image }}
+        source={product.image}
         className="w-full h-32 rounded-lg mb-2"
         resizeMode="contain"
       />

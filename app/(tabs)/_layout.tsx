@@ -63,15 +63,15 @@ const TabsLayout = () => {
         }}
       />
       <Tabs.Screen
-        name="bidding"
+        name='prediction'
         options={{
-          title: "Bidding",
+          title: "Prediction",
           headerShown: false,
           tabBarIcon: ({ color, focused }) => (
             <TabIcon
-              icon={icons.bidding}
+              icon={icons.business}
               color={color}
-              name="Bidding"
+              name="Prediction"
               focused={focused}
             />
           ),

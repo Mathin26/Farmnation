@@ -22,7 +22,7 @@ const productListings = [
     description: "Fresh organic tomatoes from Green Fields Farms",
     price: "₹35/kg",
     originalPrice: "₹40/kg",
-    image:"https://via.placeholder.com/150",
+    image:images.tomato ,// Using imported images
     seller: "Green Fields Farms",
     rating: 4.5,
     reviews: 120,
@@ -33,7 +33,7 @@ const productListings = [
     description: "High-quality fresh potatoes from Sunrise Agro",
     price: "₹28/kg",
     originalPrice: "₹32/kg",
-    image: '/assets/images/potato.webp', // Using imported images
+    image: images.potato, // Using imported images
     seller: "Sunrise Agro",
     rating: 4.2,
     reviews: 95,
@@ -44,7 +44,7 @@ const productListings = [
     description: "Delicious organic carrots from Farm Fresh Produce",
     price: "₹50/kg",
     originalPrice: "₹55/kg",
-    image: '/assets/images/carrot.jpg', // Using imported images
+    image: images.carrot, // Using imported images
     seller: "Farm Fresh Produce",
     rating: 4.7,
     reviews: 150,
@@ -55,7 +55,7 @@ const productListings = [
     description: "Top-quality premium onions from Golden Harvest",
     price: "₹42/kg",
     originalPrice: "₹45/kg",
-    image: '/assets/images/onions.jpeg', // Using imported images
+    image: images.onions, // Using imported images
     seller: "Golden Harvest",
     rating: 4.3,
     reviews: 110,
