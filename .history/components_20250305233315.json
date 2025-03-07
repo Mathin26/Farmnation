@@ -1,0 +1,6 @@
+{
+  "aliases": {
+    "components": "../FarmNation/components",
+    "lib": "../FarmNation/components"
+  }
+}
